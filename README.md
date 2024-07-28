@@ -21,7 +21,7 @@ Well, enjoy it if you want to ¯\_(°-°)_/¯
 
 In your terminal/cmd:
 
-First, if you don't have raylib installed on your system:
+First, on Windows to get the .dll of the library, type:
 ```bash
 dub run raylib-d:install
 ```
