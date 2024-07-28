@@ -1,4 +1,4 @@
-# BF-TEST
+# Boyfriend-Test-FNF
 
 This project is not affiliated with the developers of Friday Night Funkin'. It is strongly inspired by Boyfriend test, I just tried to do it with Raylib.
 
