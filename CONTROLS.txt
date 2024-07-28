@@ -1,0 +1,21 @@
+------------------
+---- CONTROLS ----
+------------------
+
+LEFT KEY | 'A'
+- Left Animation
+
+RIGHT KEY | 'D'
+- Right Animation
+
+'UP KEY' | 'W'
+- Up Animation
+
+'DOWN KEY' | 'S'
+- Down Animation
+
+'SPACE'
+- Taunt Animation
+
+'M'
+- Mute/Unmute Sounds

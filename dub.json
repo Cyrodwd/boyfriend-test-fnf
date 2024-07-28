@@ -1,0 +1,14 @@
+{
+    "libs" : ["raylib"],
+    "lflags-posix" : ["-L."],
+    "lflags-osx" : ["-rpath", "@executable_path/"],
+    "lflags-linux" : ["-rpath=$$ORIGIN"],
+    "description" : "Test of Boyfriend (FNF)",
+    "name" : "bf_test",
+    "dependencies" : {
+        "raylib-d" : "~>5.0.1"
+    },
+    "authors" : ["KusserWolf"],
+    "copyright" : "Copyright © 2024, KusserWolf",
+    "license" : "proprietary"
+}
